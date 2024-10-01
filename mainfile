@@ -1,0 +1,27 @@
+#Summation Of two numbers
+print("MathBoom.com")
+var1 = int(input("First Number : "))
+var2 = int(input("Second Number : "))
+add = (var1 + var2 )
+print(("The sum is : "), add)
+
+#Subtraction of two numbers
+print("Subtraction Calculator")
+var1 = int(input("First Number : "))
+var2 = int(input("Second Number : "))
+subtraction = (var1 - var2)
+print(("Result : "), subtraction)
+
+#Multiplication of two numbers
+print("Multiboom.com")
+var1 = int(input("1st Num : "))
+var2 = int(input("2nd Num :"))
+Multiplication = (var1 * var2)
+print(("Result : "), Multiplication)
+
+#Division of two numbers
+print("DiviBabu88.com")
+var1 = int(input("1st Integer:"))
+var2 = int(input("2nd Integer"))
+division = (d1/d2)
+print(("Result is : "), division)
